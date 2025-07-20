@@ -60,7 +60,7 @@ int main() {
 To see our other projects and learn more about our commitment to open source, please visit our website.
 
 -   **Our Open Source Contributions**: [https://codernix.com/open-source](https://codernix.com/open-source)
--   **BLAKE3 Wrapper Project Page**: [https://codernix.com/open-source/encryption/blake3](https://codernix.com/open-source/encryption/blake3)
+-   **BLAKE3 Wrapper Project Page**: [https://codernix.com/open-source/cryptography/blake3/](https://codernix.com/open-source/cryptography/blake3/)
 
 ## License
 
