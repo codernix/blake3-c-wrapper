@@ -2,7 +2,7 @@
 name = "blake3-wrapper"
 version = "0.1.3"
 authors = ["Abou-Bakr Seddik Ouahabi <aboubakr@codernix.com>"]
-edition = "2025"
+edition = "2024"
 
 [dependencies]
 blake3 = "1.8.2"
