@@ -34,7 +34,7 @@ You can link this shared library in your C/C++ project or load it dynamically. Y
 **Example C code:**
 
 ```c
-// (Assuming you have a blake3_wrapper.h header file)
+// (Assuming you have included our provided blake3_wrapper.h header file)
 #include "blake3_wrapper.h"
 #include <stdio.h>
 
